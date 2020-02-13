@@ -3,6 +3,7 @@
     <img src="https://bootstrapemail.com/img/icons/logo.png" alt="" width=72 height=72>
   </a>
 
+
   <h3 align="center">Bootstrap Email</h3>
 
   <p align="center">
